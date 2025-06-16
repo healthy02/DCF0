@@ -67,9 +67,9 @@ Use sensitivity analysis to understand risks and opportunities.
 Example Output
 For Zydus Lifesciences:
 
-Intrinsic Value (DCF): ₹536.76 per share
+Intrinsic Value (DCF): ₹1,077 per share
 Market Price (as of March 2025): ₹886.40 per share
-Conclusion: The stock is overvalued by approximately 39%.
+Conclusion: The stock is undervalued by approximately 17%.
 
 Customization Options
 You can customize the following parameters to reflect your assumptions:
